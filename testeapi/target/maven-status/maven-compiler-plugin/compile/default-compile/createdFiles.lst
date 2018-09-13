@@ -1,0 +1,15 @@
+testeapi\config\HibernateConfig.class
+testeapi\dao\FichaDao.class
+testeapi\controller\AnimalController.class
+testeapi\model\animal.class
+testeapi\dao\FichaDaoImpl.class
+testeapi\dao\AnimalDao.class
+testeapi\config\WebConfig.class
+testeapi\service\AnimalServiceImpl.class
+testeapi\service\FichaService.class
+testeapi\dao\AnimalDaoImpl.class
+testeapi\service\FichaServiceImpl.class
+testeapi\service\AnimalService.class
+testeapi\model\ficha.class
+testeapi\controller\FichaController.class
+testeapi\config\WebInitializer.class
